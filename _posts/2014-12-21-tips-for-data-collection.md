@@ -85,7 +85,7 @@ Count the number of lanes on the street with the most lanes. For instance, if on
 
 Some, but not all traffic lights also have signals specifically for pedestrians.  Some intersections may have pedestrian signals, but not traditional traffic lights.  Intersections with stop signs typically do not have traffic lights or pedestrian signals.
 
-![PedestrianSignalWeb.png](/_posts/PedestrianSignalWeb.png)
+![PedestrianSignalWeb.png](/media/PedestrianSignalWeb.png)
 
 **_Are there pedestrian amenities?_**
 
