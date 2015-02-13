@@ -37,6 +37,10 @@ h2 {
   font-size: 60px;
 }
 
+h2.header-full {
+  padding: 20px 2%;
+}
+
 .full h2 {
   padding: 20px;
 }
